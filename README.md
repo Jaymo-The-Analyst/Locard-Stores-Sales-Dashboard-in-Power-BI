@@ -39,16 +39,22 @@ To view or use this project, follow these steps:
 ## Results
 
 ### Sales Overview
-![Sales Overview](Screenshot(32).png)  
+![Screenshot (32)](https://github.com/user-attachments/assets/cbab8bee-bb94-4cf9-86ae-43327ac8e21d)
+
+
 This is the main screen of the dashboard, displaying a summary of total sales, regional performance, and a breakdown of sales by product category. The key metrics can be filtered by time (monthly, quarterly, yearly).
 
 ### Regional Sales Performance
-![Regional Sales](images/regional-sales.png)  
+ ![Screenshot (34)](https://github.com/user-attachments/assets/e64f28cf-80ba-418c-8e65-aaacc1047fad)
+
 This visual displays sales performance across different regions. Users can select specific regions to get a detailed view of performance by product category and sales volume.
 
-### Product Category Breakdown
-![Product Category Breakdown](images/product-category.png)  
-This chart provides an overview of sales by product category, showing which products contribute the most to overall revenue.
+### ProductS  Breakdown
+![Screenshot (36)](https://github.com/user-attachments/assets/71729af4-e3d2-456f-b214-8955b5ed0cce)
+
+
+
+This chart provides an overview of sales by product , showing which products contribute the most to overall revenue.
 
 ### Key Metrics
 ![Key Metrics](images/key-metrics.png)  
