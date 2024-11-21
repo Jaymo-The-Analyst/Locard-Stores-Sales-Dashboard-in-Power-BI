@@ -39,7 +39,7 @@ To view or use this project, follow these steps:
 ## Results
 
 ### Sales Overview
-![Sales Overview](images/sales-overview.png)  
+![Sales Overview](Screenshot(32).png)  
 This is the main screen of the dashboard, displaying a summary of total sales, regional performance, and a breakdown of sales by product category. The key metrics can be filtered by time (monthly, quarterly, yearly).
 
 ### Regional Sales Performance
